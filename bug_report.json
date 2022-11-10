@@ -1,0 +1,18 @@
+{
+	"title": "Application crashes upon clicking the SAVE button while creating a new user",
+	"ID": 01,
+	"Area Path": "USERS menu -> New Users",
+	"Severity": "Critical",
+	"Priority": "High",
+	"Assigned to": "Developer",
+	"Reported By": "Karpyza",
+	"Reported On": "Date",
+	"Status": "New/Open/Active",
+	"Environment": "Windows 11",
+	"description": "Application crashes upon clicking the SAVE button while creating a new the user, hence unable to create a new user in the application",
+	"Steps to Reproduce": "1) Login into the Application.",
+	"Expected Result": "On clicking the SAVE button, you should be prompted to a successful message 'New User has been created successfully'",
+	"Actual Result": "Application crashes upon clicking the SAVE button while creating a new user"
+}
+
+
