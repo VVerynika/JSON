@@ -1,10 +1,25 @@
 {
 	"Databases": "PostgreSQL",
 	"API testing": "Postman",
-	"Basic knowledge": "HTML/CSS,Python, JS",
+	"Basic knowledge": [
+		"HTML/CSS",
+		"Python", 
+		"JS"
+		]
 	"Tools": "Chrome DevTools",
-	"Methodology": "Waterfall, Agile",
+	"Methodology": "Waterfall/Agile",
 	"Management tools": "Jira",
-	"Documentation": "Check list, test case, bug report",
-	"Testing": "Functional, regression, unit, UAT, cross browser, WEB/mobile"
+	"Documentation": [
+		"check list", 
+		"test case", 
+		"bug report"
+		]
+	"Testing": [
+		"functional", 
+		"regression", 
+		"unit", 
+		"UAT", 
+		"cross browser", 
+		"WEB/mobile"
+		]
 	}
